@@ -28,7 +28,11 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\wow\\modul5_103022300003\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCQAAAA+AAAAAAAAAA==",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+>>>>>>> implementasi-generic-class
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T23:45:53.897Z",
               "EditorCaption": ""
