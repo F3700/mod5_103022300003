@@ -1,0 +1,15 @@
+D:\wow\modul5_103022300003\bin\Debug\net8.0\modul5_103022300003.exe
+D:\wow\modul5_103022300003\bin\Debug\net8.0\modul5_103022300003.deps.json
+D:\wow\modul5_103022300003\bin\Debug\net8.0\modul5_103022300003.runtimeconfig.json
+D:\wow\modul5_103022300003\bin\Debug\net8.0\modul5_103022300003.dll
+D:\wow\modul5_103022300003\bin\Debug\net8.0\modul5_103022300003.pdb
+D:\wow\modul5_103022300003\obj\Debug\net8.0\modul5_103022300003.GeneratedMSBuildEditorConfig.editorconfig
+D:\wow\modul5_103022300003\obj\Debug\net8.0\modul5_103022300003.AssemblyInfoInputs.cache
+D:\wow\modul5_103022300003\obj\Debug\net8.0\modul5_103022300003.AssemblyInfo.cs
+D:\wow\modul5_103022300003\obj\Debug\net8.0\modul5_103022300003.csproj.CoreCompileInputs.cache
+D:\wow\modul5_103022300003\obj\Debug\net8.0\modul5_103022300003.sourcelink.json
+D:\wow\modul5_103022300003\obj\Debug\net8.0\modul5_103022300003.dll
+D:\wow\modul5_103022300003\obj\Debug\net8.0\refint\modul5_103022300003.dll
+D:\wow\modul5_103022300003\obj\Debug\net8.0\modul5_103022300003.pdb
+D:\wow\modul5_103022300003\obj\Debug\net8.0\modul5_103022300003.genruntimeconfig.cache
+D:\wow\modul5_103022300003\obj\Debug\net8.0\ref\modul5_103022300003.dll
